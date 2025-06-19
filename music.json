@@ -1,0 +1,1 @@
+> conn.sendMessage(m.chat, {audio: { url: "https://files.catbox.moe/ebipkt.mp3" },mimetype: 'audio/mp4', ptt: true});
