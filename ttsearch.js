@@ -1,8 +1,4 @@
-> conn.sendMessage(m.chat, {
-      video: { url: vid.play },
-      caption,
-      footer: "Pilih format download",
-      buttons: [
+> buttons: [
         {
           buttonId: `.menu all`,
           buttonText: { displayText: 'ALL MENU KONTOL' },
